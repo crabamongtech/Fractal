@@ -2,7 +2,7 @@
 
 ![Fractal Logo](logo.png)
 
-Fractal is a lightweight Windows command-line tool that displays detailed information about your PC hardware and system.  
+Fractal is a lightweight Windows command-line tool that displays simple information about your hardware and system.  
 
 It gathers information such as:
 - CPU details  
