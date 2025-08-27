@@ -1,5 +1,7 @@
 # Fractal
 
+![Fractal Logo](fract.png)
+
 Fractal is a lightweight Windows command-line tool that displays detailed information about your PC hardware and system.  
 
 It gathers information such as:
